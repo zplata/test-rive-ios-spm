@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "RiveRuntime",
+        "repositoryURL": "https://github.com/mjtalbot/rive-ios-pod",
+        "state": {
+          "branch": "main",
+          "revision": "278c295fcde2ff3293b27c5edc1613792824a5de",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
